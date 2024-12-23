@@ -1,3 +1,4 @@
+WEB DEVELOPMENT
 "Smiley Emoji Interaction"
 
 This project is a playful and interactive web application designed to bring joy and fun to users through dynamic emoji display. Upon hovering over the emoji element, the user will experience the following:
