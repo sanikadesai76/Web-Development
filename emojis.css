@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+#emojis {
+  font-size: 10rem;
+  filter: grayscale(1);
+  cursor: pointer;
+  transition: transform 0.3s ease, filter;
+}
+
+#emojis:hover {
+  transform: scale(1.2);
+  filter: grayscale(0);
+}
